@@ -1,0 +1,74 @@
+.back
+{
+    background-color: #fff;
+    padding: 20px;
+}
+.white
+{
+    color: #fff;
+}
+.odstep
+{
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+.footer
+{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 6%;
+    margin-bottom: 0;
+    text-align: center;
+}
+.odstepTOP
+{
+    margin-top: 5%;
+    padding-top: 18px;
+    
+}
+.top 
+{
+    margin-top: 5%;
+}
+
+.login
+{
+    margin: auto;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.art
+{
+    margin-top: 2%;
+
+}
+
+.single_article
+{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.error
+{
+    color: red;
+    font-weight: bold;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.single
+{
+    padding: 2%;
+}
+
+.right
+{
+    margin-right: 10px;
+}
